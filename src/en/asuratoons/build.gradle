@@ -1,0 +1,8 @@
+ext {
+    extName = 'Asuratoons'
+    extClass = '.Asuratoons'
+    extVersionCode = 1
+    isNsfw = true
+}
+
+apply from: "$rootDir/common.gradle"
